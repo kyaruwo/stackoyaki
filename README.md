@@ -1,5 +1,6 @@
 # stackoyaki
 
+- caddy
 - svelte
 - tailwindcss
 - go
