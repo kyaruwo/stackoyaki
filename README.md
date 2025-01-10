@@ -1,7 +1,7 @@
 # stackoyaki
 
-- caddy
-- svelte
 - tailwindcss
+- svelte
+- caddy
 - go
 - sqlite
